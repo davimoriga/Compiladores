@@ -1,2 +1,4 @@
-# Compiladores-
-Repositório para aula de Compiladores
+# Compiladores
+# Uso
+Compilar utilizando GCC e rode:
+./bf "nomeDoArquivo"
